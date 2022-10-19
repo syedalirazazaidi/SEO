@@ -23,7 +23,7 @@ export const allblog = [
       'https://www.tmz.com/2020/07/30/nicki-minaj-husband-asks-judge-be-there-child-birth/',
     source: 'TMZ.com',
     image:
-      'https://imagez.tmz.com/image/c1/4by3/2020/07/30/c115ad2dc849438a97a0ad3097b416df_md.jpg',
+      'https://s.abcnews.com/images/US/hanna-swimmer-mo_hpMain_20200725-163152_2_4x3t_384.jpg',
     category: 'general',
     language: 'en',
     country: 'us',
@@ -53,7 +53,7 @@ export const allblog = [
       'https://www.tmz.com/2020/07/30/nicki-minaj-husband-asks-judge-be-there-child-birth/',
     source: 'TMZ.com',
     image:
-      'https://imagez.tmz.com/image/c1/4by3/2020/07/30/c115ad2dc849438a97a0ad3097b416df_md.jpg',
+      'https://s.abcnews.com/images/US/hanna-swimmer-mo_hpMain_20200725-163152_2_4x3t_384.jpg',
     category: 'general',
     language: 'en',
     country: 'us',
