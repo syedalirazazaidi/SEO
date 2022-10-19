@@ -1,7 +1,7 @@
 import React from "react";
 
 const BlogPost = ({ allPosts }) => {
-  for (var i = 0; i < allPosts.length; i++) {
+  for (var i = 0; i < 5; i++) {
     const author = allPosts.author;
 
     return <div style={{ backgroundColor: "green" }}>{author}</div>;
