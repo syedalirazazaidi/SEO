@@ -33,7 +33,7 @@ export default function Home({ posts }) {
 
       <Wrap spacing="60px" my="20px">
         {posts.map((post) => (
-          <WrapItem>
+          <WrapItem key={post.published_at}>
             <VStack
               w={['320px', '480px', '480px']}
               h="250px"

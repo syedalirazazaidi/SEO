@@ -12,7 +12,7 @@ export const allblog = [
     category: 'general',
     language: 'en',
     country: 'us',
-    published_at: '2020-07-26T01:04:23+00:00',
+    published_at: '2020-07-26T01:04:23+00:32',
   },
   {
     author: 'TMZ Staff',
@@ -27,7 +27,7 @@ export const allblog = [
     category: 'general',
     language: 'en',
     country: 'us',
-    published_at: '2020-08-01T05:34:47+00:00',
+    published_at: '2020-08-01T05:34:47+00:33',
   },
   {
     author: 'Michael Rothstein',
@@ -42,7 +42,7 @@ export const allblog = [
     category: 'sports',
     language: 'en',
     country: 'us',
-    published_at: '2020-07-31T23:23:14+00:00',
+    published_at: '2020-07-31T23:23:14+00:34',
   },
   {
     author: 'TMZ Staff',
@@ -57,7 +57,7 @@ export const allblog = [
     category: 'general',
     language: 'en',
     country: 'us',
-    published_at: '2020-08-01T05:34:47+00:00',
+    published_at: '2020-08-01T05:34:47+00:35',
   },
   {
     author: 'Michael Rothstein',
@@ -72,7 +72,7 @@ export const allblog = [
     category: 'sports',
     language: 'en',
     country: 'us',
-    published_at: '2020-07-31T23:23:14+00:00',
+    published_at: '2020-07-31T23:23:14+00:40',
   },
   {
     author: 'Michael Rothstein',
@@ -87,6 +87,6 @@ export const allblog = [
     category: 'sports',
     language: 'en',
     country: 'us',
-    published_at: '2020-07-31T23:23:14+00:00',
+    published_at: '2020-07-31T23:23:14+00:45',
   },
 ]
